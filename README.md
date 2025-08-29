@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
 <p align="left">👋 Hi there, I'm Le Huynh Thai<br><br>💻 .NET Developer<br><br>🔭 Currently working with C#, ASP.NET Core, Entity Framework Core, and React<br><br>🌱 Learning more about System Design and writing clean, maintainable code<br><br>📫 Reach me at thailh0902@gmail.com</p>
